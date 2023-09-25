@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RinEster
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C# Programming
-- 📫 How to reach me kliuevairina@gmail.com
+- 📫 How to reach me kliuevairina05@gmail.com
 
 <!---
 RinEster/RinEster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
