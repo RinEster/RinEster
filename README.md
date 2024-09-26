@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RinEster
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C# Programming
+- 🌱 I’m currently learning C#,C++ Programming
 - 📫 How to reach me kliuevairina05@gmail.com
 
 <!---
