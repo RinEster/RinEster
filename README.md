@@ -7,8 +7,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RinEster&theme=react-dark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinEster"/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RinEster&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 - 👀 I’m interested in programming
 - 📫 How to reach me kliuevairina05@gmail.com
