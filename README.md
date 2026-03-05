@@ -5,8 +5,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RinEster)](https://git.io/streak-stats)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RinEster&theme=react-dark)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RinEster&layout=compact&theme=radical)
 
 <!---
 - 👀 I’m interested in programming
