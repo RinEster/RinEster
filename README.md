@@ -12,7 +12,7 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Typst](https://img.shields.io/badge/-Typst-239DAE?style=flat-square&logo=typst&logoColor=white)
-
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <!---
 - 👀 I’m interested in programming
 - 📫 How to reach me kliuevairina05@gmail.com
