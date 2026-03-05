@@ -3,8 +3,10 @@
 
 <h3 align="center">Computer science student</h3>
 
-<div style="width: 100%; text-align: center;">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RinEster)](https://git.io/streak-stats)
+<div style="width: 100%;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RinEster" alt="GitHub Streak" style="width: 100%;">
+  </a>
 </div>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RinEster&theme=react-dark)
