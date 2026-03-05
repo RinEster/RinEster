@@ -7,7 +7,7 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RinEster&theme=react-dark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinEster"/>
 
 <!---
 - 👀 I’m interested in programming
